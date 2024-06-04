@@ -26,7 +26,7 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Задание 1](https://github.com/wintercomesX/12-04/blob/main/12-04/img/task1.PNG)`
+![Задание 1](https://github.com/wintercomesX/12-04/blob/main/12-04/img/task1.2.PNG)`
 
 
 ---
